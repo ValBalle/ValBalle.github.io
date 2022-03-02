@@ -17,3 +17,4 @@ Escucho cualquier tipo de música pero a veces escucho más un genero que otro, 
 Mi color favorito es color negro, todos los tonos oscuros me gustan, los tonos claros no son mucho de mi agrado y menos el color rosa.
 
 Por ahora solo estudio el bachillerato, terminando mis planes son trabajar y estudiar la Licenciatura de Danza Folklorica en la escuela del INBA (Instituto Nacional de Bellas Artes) tengo otras opciones donde podría cursar esa carrera pero la meta es entrar en esa, terminado mi carrera de Danza quiero meterme a la compañia de Amalia Hernandez y al mismo tiempo estar ejerciendo mi carrera.
+
