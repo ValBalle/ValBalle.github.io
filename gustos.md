@@ -2,10 +2,10 @@
 1. Bailar: Sé bailar de todo excepto tango y flameco de ahí en fuera sé bailar de todo hasta folklor.
 2. Pasar tiempo conmigo misma: Me ayuda mucho cuando me estreso, el aparte y estar sola me tranquiliza muchas veces. 
 Suelo: 
-*Meditar.
-*Hacer ejercicio.
-*Escuchar música.
-*Bailar.
+- Meditar.
+* Hacer ejercicio.
+* Escuchar música.
+* Bailar.
 *Ver peliculas o series.
 *Hacerme mascarillas .
 *Ver tutoriales de maquillaje y uñas.
