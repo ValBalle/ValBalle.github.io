@@ -1,4 +1,4 @@
-[Mis gustos](./gustos.md) |[Habilidades sociales](./habilidades.md) |
+[Mis gustos](./gustos.md) |[Habilidades sociales](./habilidades.md) |[Habilidades tecnologicas](./tecnologicas.md) |
 ##  hola soy Valeria, Bienvenid@ a mi sitio web de Github en donde hablaré un poco de mi 
 
 # Presentación 
