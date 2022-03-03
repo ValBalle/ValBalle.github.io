@@ -1,13 +1,12 @@
+[Mis gustos](./gustos.md) |[Habilidades sociales](./habilidades.md) |
 ##  hola soy Valeria, Bienvenid@ a mi sitio web de Github en donde hablaré un poco de mi 
 
 # Presentación 
 Mi nombre es Valeria Ballesteros Rodriguez. La mayoria de mis amigos me llaman Val o Güera; nací el 26 de Febrero de 2004 en el estado de México.
 
 Actualmente estoy viviendo con mis padres y mis 2 hermanos 
-
 ## Gustos:
 - Bailar 
-- Comida 
 * Pasar tiempo conmigo misma
 * Salir 
 * Escuchar musica 
