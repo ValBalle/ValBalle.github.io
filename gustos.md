@@ -17,3 +17,6 @@ Escucho de todo aunque a veces escucho más un genero que otro y los generos que
 * Banda.
 * Rap-Trap. 
 * Reguetoon.
+5. Colores Oscuros: No sé porque pero solo me gustan m+as que los tonos claros, si llego a tener y usar cosas claras pero menos rosa.
+6. Maquillaje: Se me hace muy llamativo, lo considero un arte y una manera en la cual se puede expresar cosas, el maquillarme y aprender nuevas técnicas de maquillaje me gusta, es mucho de mi interes
+7. Las motos: 
