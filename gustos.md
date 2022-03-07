@@ -30,3 +30,9 @@ Escucho de todo aunque a veces escucho más un genero que otro y los generos que
 8. Las motos: Aunque sean algo peligrosas para mi son muy bonitas. Mi marca favorita es Suzuki.
 
 9. Ropa: La moda en la ropa me llama mucho la atención aunque no tanto como el maquillaje, no tengo una marca favorita de hecho mucha de mi ropa es de paca.
+
+| Bailar | Pasar tiempo conmigo misma | Salir | Escuchar música | Colores oscuros | Maquillaje | Motos | Ropa | 
+|--------|----------------------------|-------|-----------------|-----------------|------------| --- | --- |
+| Salsa | Meditar | Cine | Banda | Negro | Paletas de sombras | Deportivas | Pantalones |
+| Cumbia | Ejercicio | Parque | Rap-Trpa | Azul oscuro | Brochas | Suzuki | Ombligueras |
+| Banda | Escuchar Música | Plazas | Salsa | Tonos oscuros | Labiales | Llamativas | Sudaderas|
