@@ -10,3 +10,12 @@
 5. Reconozco cuando estoy mal en algo: Acepto mis errores 
 
 6. Soy amistosa: Socializo mucho y me he es fácil hacer amigos
+
+| Habilidades Sociales |
+|----------------------|
+| Empatica |
+| Comprensiva |
+| Escuchar a las personas |
+| Agradecida |
+| Reconozco cuando estoy mal |
+| Amistosa |
